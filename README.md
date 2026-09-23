@@ -35,8 +35,7 @@ Basically learned everything I know at this point from just this project:
 Along with many more soft-skills like a general intuition of systems, designs and assemblys
 
 
-	<ins>If you were to decide to build this arm for youserlf </ins>
-, please check out the assembly instructions and everything else.
+***If you were to decide to build this arm for youserlf***, please check out the assembly instructions and everything else.
 I have to be honest though: This project was never designed to be intuitive to understand or build. It will be a bit hard and
 take time to understand everything especially the assembly is probably not the most well designed or intuitive part.
 However, if anyone were to decide to try and build this project I wish you a lot of fun while building it and learning!
