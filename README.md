@@ -61,6 +61,12 @@ Along with many more soft-skills like a general intuition of systems, designs an
 It isnt the most intuitive design to be honest. But the assembly in the cad files as well as the provided pics should help you to figure everything out.
 The whole build uses m3 screws, nuts and washers. I recommend an assortment of multiple lenghts of m3 screws, such as the one listed on the BOM.
 
+***About the 3d printing***, all parts can probalby just be printed in plain pla with completely default settings. ***!Except!*** for the two "waves", which should be printed with 100% infill.
+The housing of joint 2 is supposed to take a lot of force to slide on the base. Consider using a hammer.
+
+<img width="1383" height="948" alt="grafik" src="https://github.com/user-attachments/assets/52285b35-9c20-4bde-83ae-5275f845d1f1" />
+
+
 The build requires knowledge about elctric circuits specifically some experience with stepper motors is very handy so you dont fry your motors and drivers... (ask me how i know :D )
 ***If any questions occur, please leave a message in the discussions tab so I can help you!***
 But you have to understand that this is not the print and play robotic arm you are looking for. It takes some assembly time and a little time to understand 
