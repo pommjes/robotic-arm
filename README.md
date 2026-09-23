@@ -21,6 +21,10 @@ When I discovered **Stardance** the I got a huge push of motivation to finally f
 
 These are the technical specs:
 
+-Powered by Arduino
+
+-Controlled on your PC in Python
+
 -3  360° joints, two of them working with my cycloidal drive
 
 -320mm of total, 360° range
