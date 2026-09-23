@@ -14,9 +14,22 @@ was very shit.
 
 <img width="1079" height="1083" alt="Screenshot_20260923_201655_Gallery" src="https://github.com/user-attachments/assets/6c02216f-13f0-4880-ae91-c997e7fdd1b9" />
 
-After that I slowly started upgrading: I got my first Nema stepper motor along with a power supply, stepper drivers and some other supplys.
+After that I slowly started upgrading: I got my first Nema stepper motor along with a power supply, stepper drivers and some other supplies.
 The first real working cycloidal drive turned into a design which could actually put out some tourque which slowly turned into a real robotic arm.
 When I discovered **Stardance** the I got a huge push of motivation to finally finish this project which thankfully still motivates me to this day!
+
+
+These are the technical specs:
+
+-3  360° joints, two of them working with my cycloidal drive
+
+-320mm of total, 360° range
+
+-Uses ~10 Watts of power during operation
+
+-Every joint is Homable via Hall-effect sensors
+
+-Every joint is independently controllabe down to about 0.5° steps
 
 
 Allthough I got myself a cool robotic arm on my desk now, the most important thing is what i learned.
