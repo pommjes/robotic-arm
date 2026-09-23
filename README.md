@@ -52,10 +52,16 @@ Basically learned everything I know at this point from just this project:
 Along with many more soft-skills like a general intuition of systems, designs and assemblys
 
 
-***If you were to decide to build this arm for yourself***, please check out the assembly instructions and everything else.
-I have to be honest though: This project was never designed to be intuitive to understand or build. It will be a bit hard and
-take time to understand everything especially the assembly is probably not the most well designed or intuitive part.
-However, if anyone were to decide to try and build this project I wish you a lot of fun while building it and learning!
+***If you were to decide to build this arm for yourself:***
+<img width="1018" height="736" alt="grafik" src="https://github.com/user-attachments/assets/cfc25d25-0680-4093-a6a2-3462367cb488" />
+
+It isnt the most intuitive design to be honest. But the assembly in the cad files as well as the provided pics should help you to figure everything out.
+The whole build uses m3 screws, nuts and washers. I recommend an assortment of multiple lenghts of m3 screws, such as the one listed on the BOM.
+
+The build requires knowledge about elctric circuits specifically some experience with stepper motors is very handy so you dont fry your motors and drivers... (ask me how i know :D )
+***If any questions occur, please leave a message in the discussions tab so I can help you!***
+But you have to understand that this is not the print and play robotic arm you are looking for. It takes some assembly time and a little time to understand 
+everything.
 
 
 If anyone wants to work on it, I recommend working on the software as it is extremely rudimentary at this point only being able to perform the most basic things.
