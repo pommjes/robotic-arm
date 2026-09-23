@@ -1,7 +1,7 @@
 # robotic-arm
 <img width="675" height="900" alt="grafik" src="https://github.com/user-attachments/assets/67ba8f8c-3e67-4c80-ac8e-9897883fbf6a" />
 
-Hello,
+### Hello,
 
 
 This robotic arm is a project born out of a simple idea.
@@ -19,7 +19,7 @@ The first real working cycloidal drive turned into a design which could actually
 When I discovered **Stardance** the I got a huge push of motivation to finally finish this project which thankfully still motivates me to this day!
 
 
-These are the technical specs:
+### These are the technical specs:
 
 -Powered by Arduino
 
@@ -52,7 +52,7 @@ Basically learned everything I know at this point from just this project:
 Along with many more soft-skills like a general intuition of systems, designs and assemblys
 
 
-***If you were to decide to build this arm for yourself:***
+### ***If you were to decide to build this arm for yourself:***
 <img width="1018" height="736" alt="grafik" src="https://github.com/user-attachments/assets/cfc25d25-0680-4093-a6a2-3462367cb488" />
 
 It isnt the most intuitive design to be honest. But the assembly in the cad files as well as the provided pics should help you to figure everything out.
