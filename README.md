@@ -1,27 +1,26 @@
-# Robotic arm  |  Stardance, Hack Club project
+# Robotic arm  
+> **A Hack Club Stardance project**
 
-Demo Link: https://youtu.be/8yHq4bUqn0A
+### Demo Link: https://youtu.be/8yHq4bUqn0A
 
 <img width="675" height="900" alt="grafik" src="https://github.com/user-attachments/assets/67ba8f8c-3e67-4c80-ac8e-9897883fbf6a" />
 
 ### Hello,
 
 
-This robotic arm is a project born out of a simple idea.
-I saw a video of a cycloidal drive on tiktok and just decided to try and build one myself and maybe build something like 
-one of these robotic arm like the ones on tiktok. How hard could it be right?
-7 months later and a lot has happened. Let me just say: it was slightly harder than expected.
-From building the very first version of a cycloidal drive based on the stepper motor that comes with the arduino kit.
-After the first weekend of just building, testing and designing 12h a day of many to come, I had the first design which of course
-was very shit.
+This robotic arm was born out of a simple idea. I saw a video of a cycloidal drive on TikTok and decided to try building one myself — and maybe turn it into a robotic arm like the ones I saw online. 
 
-<img width="783" height="546" alt="grafik" src="https://github.com/user-attachments/assets/524dd1d0-a87d-4184-aa46-f75ce96287f2" />
+*How hard could it be, right?*
 
+**7 months later:** Let's just say it was *slightly* harder than expected. 
 
-After that I slowly started upgrading: I got my first Nema stepper motor along with a power supply, stepper drivers and some other supplies.
-The first real working cycloidal drive turned into a design which could actually put out some tourque which slowly turned into a real robotic arm.
-When I discovered **Stardance** the I got a huge push of motivation to finally finish this project which thankfully still motivates me to this day!
+It started with a tiny 28BYJ-48 stepper motor from an Arduino starter kit. After a first weekend of designing, printing, and testing for 12 hours a day, I finished Version 1 — which, of course, was terrible.
 
+<img width="783" height="546" alt="Early Cycloidal Prototype" src="https://github.com/user-attachments/assets/524dd1d0-a87d-4184-aa46-f75ce96287f2" />
+
+From there, I gradually upgraded: I bought my first NEMA stepper motors, dedicated power supply, stepper drivers, and additional hardware. The first working cycloidal drive capable of actual torque output slowly evolved into a full robotic arm. 
+
+When I discovered **Stardance**, it gave me a massive push of motivation to finally finish this pro
 
 ### These are the technical specs:
 
