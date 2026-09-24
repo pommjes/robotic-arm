@@ -74,16 +74,18 @@ To be honest, it isn't the most intuitive design. However, the assembly view in 
 *This is not a plug-and-play kit. It takes real assembly time and some patience to understand how everything works together. If you have questions, please leave a message in the **Discussions** tab!*
 
 
-### ***To operate***, move all joints to their zero position using the manual joint movements:
+## ***Operating the arm & Software***
+### Zeroing the joints
+Before using the "target point" app, you have to zero all of the joints as seen in the render below as horizontal as possible using the *manual joint control*.
 <img width="979" height="607" alt="grafik" src="https://github.com/user-attachments/assets/7cd10a4e-b2de-4386-b7e4-84324badba67" />
-this should be as accuarate as possible. 
-
-**Once youre done**, zero every joint in the UI. 
-The UI is pretty straight forward in my opinion. The homing feature is more or less useless as is, but could be modified to automatically move to the exact zero position after homing, but this will be different for every arm 
-depending on the exact placement of the sensors and the magnets. I also realized that the home all feature is pretty unlogical to have, so its not bound to any command right now. 
-**I would advise you to read the comments in 
-the arduino code** to get a better understanding of the controls, but I dont think its all too important. 
-**Definetly** pay attention to the messages in the UI itself aswell as in the python terminal.
+once done, zero all the joints in the UI by pressing **Zero** (see UI below)
+ 
+### UI & Control
+* The GUI is fairly straightforward. 
+* The hardware homing via Hall-sensors works, but could be modified to automatically drive to the exact zero point after triggering (varies depending on magnet/sensor placement). 
+* Pay close attention to error messages in the Python terminal and the UI itself.
+* Check the comments in the Python code to get a better understanding of the control software (probalby optional).
+  
 <img width="899" height="826" alt="Screenshot 2026-09-23 190438" src="https://github.com/user-attachments/assets/80efc921-688d-4048-b2c7-52cf0a1f2425" />
 
 
