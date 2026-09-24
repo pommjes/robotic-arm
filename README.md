@@ -1,4 +1,4 @@
-# Robotic arm  
+# Arduino based Robotic Arm  
 > **A Hack Club Stardance project**
 
 ### Demo Link: https://youtu.be/8yHq4bUqn0A
