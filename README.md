@@ -22,37 +22,39 @@ From there, I gradually upgraded: I bought my first NEMA stepper motors, dedicat
 
 When I discovered **Stardance**, it gave me a massive push of motivation to finally finish this pro
 
-### These are the technical specs:
+### Technical specs:
 
--Powered by Arduino
+- Powered by Arduino
 
--Controlled on your PC in Python
+- Controlled on your PC in Python
 
--3  360° joints, two of them working with my cycloidal drive
+- 3  360° joints, two of them working with my cycloidal drive
 
--320mm of total, 360° range
+- 320mm of total, 360° range
 
--Uses ~10 Watts of power during operation
+- Uses ~10 Watts of power during operation
 
--Every joint is Homable via Hall-effect sensors
+- Every joint is Homable via Hall-effect sensors
 
--Every joint is independently controllabe down to about 0.5° steps
+- Every joint is independently controllabe down to about 0.5° steps
+
 
 
 ### Allthough I got myself a cool robotic arm on my desk now, the most important thing is what i learned.
 **I Basically learned everything I know at this point from just this project:**
 
--CAD modelling (with 3d-printing and ease of assembly in mind)
+* CAD modelling (with 3d-printing and ease of assembly in mind)
 
--3d-printing
+* 3d-printing
 
--Soldering
+* Soldering
 
--Planing and understanding circuits
-
--Design research, Parts research/logistics
+* Planing and understanding circuits
+  
+* Design research, Parts research/logistics
 
 Along with many more soft-skills like a general intuition of systems, designs and assemblys
+
 
 
 ### ***If you were to decide to build this arm for yourself:***
