@@ -1,4 +1,4 @@
-# robotic-arm
+# robotic-arm  |  Stardance, Hack Club project
 
 Demo Link: https://youtu.be/8yHq4bUqn0A
 
