@@ -15,7 +15,8 @@ From building the very first version of a cycloidal drive based on the stepper m
 After the first weekend of just building, testing and designing 12h a day of many to come, I had the first design which of course
 was very shit.
 
-<img width="1079" height="1083" alt="Screenshot_20260923_201655_Gallery" src="https://github.com/user-attachments/assets/6c02216f-13f0-4880-ae91-c997e7fdd1b9" />
+<img width="783" height="546" alt="grafik" src="https://github.com/user-attachments/assets/524dd1d0-a87d-4184-aa46-f75ce96287f2" />
+
 
 After that I slowly started upgrading: I got my first Nema stepper motor along with a power supply, stepper drivers and some other supplies.
 The first real working cycloidal drive turned into a design which could actually put out some tourque which slowly turned into a real robotic arm.
