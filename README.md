@@ -57,7 +57,7 @@ Along with many more soft-skills like a general intuition of systems, designs an
 
 
 
-### ***If you were to decide to build this arm for yourself:***
+##  Build & Assembly Notes
 <img width="1018" height="736" alt="grafik" src="https://github.com/user-attachments/assets/cfc25d25-0680-4093-a6a2-3462367cb488" />
 
 To be honest, it isn't the most intuitive design. However, the assembly view in the CAD files and the provided pictures should help you figure everything out.
@@ -75,6 +75,14 @@ To be honest, it isn't the most intuitive design. However, the assembly view in 
 
 
 ## ***Operating the arm & Software***
+### Setup
+1. Download the software files. You should have 3 files. 2 Python files and one C++ file.
+2. Just open the Python files in you code editor and upload the C++ file to your Arduino
+3. Connect the Arduino to yor PC via USB and run the Python file titled "arm_control_3.py". It should say "Succesfuly connected to Arduino
+
+Done! You should be ready to go! The next steps:
+
+
 ### Zeroing the joints
 Before using the "target point" app, you have to zero all of the joints as seen in the render below as horizontal as possible using the *manual joint control*.
 <img width="979" height="607" alt="grafik" src="https://github.com/user-attachments/assets/7cd10a4e-b2de-4386-b7e4-84324badba67" />
