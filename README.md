@@ -89,3 +89,11 @@ the arduino code** to get a better understanding of the controls, but I dont thi
 
 
 If anyone wants to work on it, I recommend working on the software as it is extremely rudimentary at this point only being able to perform the most basic things.
+
+### AI usage:
+
+**This project was done by me. AI assisted me.** This project introduced me to many new challanges like complex electric circuits, cimplicated coding (for me) as well as new physics concepts and many more.
+**I used AI for some research for parts, solving hard problems and to assist my decision making process here and there**. I am sure that I would not have solved the big problems I faced if I hadnt used any AI. 
+But I definitely did the work by myself and did ***not*** just do what the AI told me to do. 
+
+(AI in this context means LLMs, i.e. Chatgpt, Gemini, Grok etc)
