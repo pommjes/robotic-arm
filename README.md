@@ -40,7 +40,7 @@ When I discovered **Stardance** the I got a huge push of motivation to finally f
 -Every joint is independently controllabe down to about 0.5° steps
 
 
-Allthough I got myself a cool robotic arm on my desk now, the most important thing is what i learned.
+### Allthough I got myself a cool robotic arm on my desk now, the most important thing is what i learned.
 Basically learned everything I know at this point from just this project:
 
 -CAD modelling (with 3d-printing and ease of assembly in mind)
