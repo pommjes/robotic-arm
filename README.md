@@ -60,19 +60,18 @@ Along with many more soft-skills like a general intuition of systems, designs an
 ### ***If you were to decide to build this arm for yourself:***
 <img width="1018" height="736" alt="grafik" src="https://github.com/user-attachments/assets/cfc25d25-0680-4093-a6a2-3462367cb488" />
 
-It isnt the most intuitive design to be honest. But the assembly in the cad files as well as the provided pics should help you to figure everything out.
-The whole build uses m3 screws, nuts and washers. I recommend an assortment of multiple lenghts of m3 screws, such as the one listed on the BOM.
+To be honest, it isn't the most intuitive design. However, the assembly view in the CAD files and the provided pictures should help you figure everything out.
 
-***About the 3d printing***, all parts can probalby just be printed in plain pla with completely default settings. ***!Except!*** for the two "waves", which should be printed with 100% infill.
-The housing of joint 2 is supposed to take a lot of force to slide on the base. Consider using a hammer.
+* **Hardware:** Uses standard M3 screws, nuts, and washers. I recommend an assortment with multiple lengths (listed in the BOM).
+* **3D Printing:** Most parts print fine in standard PLA with default settings. **Exception:** The two **"wave" components** in the cycloidal drive **must be printed with 100% infill**.
+* **Assembly Tip:** The housing of Joint 2 requires force to slide onto the base due to heavy structural load — consider using a rubber mallet/hammer carefully.
 
 <img width="1383" height="948" alt="grafik" src="https://github.com/user-attachments/assets/52285b35-9c20-4bde-83ae-5275f845d1f1" />
 
 
-The build requires knowledge about elctric circuits specifically some experience with stepper motors is very handy so you dont fry your motors and drivers... (ask me how i know :D )
-***If any questions occur, please leave a message in the discussions tab so I can help you!***
-But you have to understand that this is not the print and play robotic arm you are looking for. It takes some assembly time and a little time to understand 
-everything.
+>  **Circuit Warning:** This project requires working knowledge of electrical circuits and stepper motors so you don't fry your motors or drivers *(ask me how I know... :D)*.
+
+*This is not a plug-and-play kit. It takes real assembly time and some patience to understand how everything works together. If you have questions, please leave a message in the **Discussions** tab!*
 
 
 ### ***To operate***, move all joints to their zero position using the manual joint movements:
