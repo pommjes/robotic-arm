@@ -73,4 +73,18 @@ But you have to understand that this is not the print and play robotic arm you a
 everything.
 
 
+### ***To operate***, move all joints to their zero position using the manual joint movements:
+<img width="979" height="607" alt="grafik" src="https://github.com/user-attachments/assets/7cd10a4e-b2de-4386-b7e4-84324badba67" />
+this should be as accuarate as possible. 
+
+**Once youre done**, zero every joint in the UI. 
+The UI is pretty straight forward in my opinion. The homing feature is more or less useless as is, but could be modified to automatically move to the exact zero position after homing, but this will be different for every arm 
+depending on the exact placement of the sensors and the magnets. I also realized that the home all feature is pretty unlogical to have, so its not bound to any command right now. 
+**I would advise you to read the comments in 
+the arduino code** to get a better understanding of the controls, but I dont think its all too important. 
+**Definetly** pay attention to the messages in the UI itself aswell as in the python terminal.
+<img width="899" height="826" alt="Screenshot 2026-09-23 190438" src="https://github.com/user-attachments/assets/80efc921-688d-4048-b2c7-52cf0a1f2425" />
+
+
+
 If anyone wants to work on it, I recommend working on the software as it is extremely rudimentary at this point only being able to perform the most basic things.
